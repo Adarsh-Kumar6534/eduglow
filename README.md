@@ -1,6 +1,9 @@
 <h1 align="center">
   🎓 EduGlow – Flutter Student Dashboard
 </h1>
+<p align="center">
+  <img src="assets/screenshots/edu.gif" width="300" alt="News Animated Header" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.22-blue?logo=flutter&logoColor=white" />
