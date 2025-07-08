@@ -2,7 +2,7 @@
   🎓 EduGlow – Flutter Student Dashboard
 </h1>
 <p align="center">
-  <img src="assets/screenshots/edu.gif" width="300" alt="News Animated Header" />
+  <img src="https://media.tenor.com/0rUmZoUW8xYAAAAM/fight-school.gif" width="300" alt="News Animated Header" />
 </p>
 
 <p align="center">
